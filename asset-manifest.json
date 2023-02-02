@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mobileapp-react/static/css/main.a355d940.css",
+    "main.js": "/mobileapp-react/static/js/main.e86d68d2.js",
+    "static/js/787.ff4c003a.chunk.js": "/mobileapp-react/static/js/787.ff4c003a.chunk.js",
+    "index.html": "/mobileapp-react/index.html",
+    "main.a355d940.css.map": "/mobileapp-react/static/css/main.a355d940.css.map",
+    "main.e86d68d2.js.map": "/mobileapp-react/static/js/main.e86d68d2.js.map",
+    "787.ff4c003a.chunk.js.map": "/mobileapp-react/static/js/787.ff4c003a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a355d940.css",
+    "static/js/main.e86d68d2.js"
+  ]
+}
